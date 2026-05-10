@@ -20,47 +20,158 @@
 
 ## 🧠 About Me
 
-```python
-aditya = {
-    "location"   : "Bengaluru, Karnataka 🇮🇳",
-    "role"       : "Full Stack & AI Application Engineer",
-    "education"  : "B.Tech CSE @ BPMGCE (2025)",
-    "focus"      : ["LangGraph Agents", "RAG Pipelines", "Multi-LLM Systems"],
-    "currently"  : "Building production-grade AI backends + shipping fast",
-    "contact"    : "adityachy0077@gmail.com",
-}
-```
+🚀 Full Stack & AI Application Engineer based in **Bengaluru, Karnataka 🇮🇳**
+
+I build production-grade AI systems — from **LangGraph agentic backends** and **RAG pipelines** to polished **Next.js frontends**. I love owning products end-to-end and shipping things that actually work in the real world.
+
+Currently focused on **Multi-LLM architectures**, **vector search systems**, and scalable REST APIs — all deployed and live.
+
+📬 adityachy0077@gmail.com
 
 ---
 
 ## 🛠️ Tech Stack
 
 ### 🔤 Languages
-<p>
-  <img src="https://skillicons.dev/icons?i=python,ts,js,mysql&theme=dark" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python"/>
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=ts" width="48" height="48" alt="TypeScript"/>
+      <br><sub><b>TypeScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=js" width="48" height="48" alt="JavaScript"/>
+      <br><sub><b>JavaScript</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="SQL"/>
+      <br><sub><b>SQL</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🖥️ Frontend
-<p>
-  <img src="https://skillicons.dev/icons?i=nextjs,react,redux,html,css&theme=dark" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=nextjs" width="48" height="48" alt="Next.js"/>
+      <br><sub><b>Next.js</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=react" width="48" height="48" alt="React"/>
+      <br><sub><b>React 18</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=redux" width="48" height="48" alt="Redux"/>
+      <br><sub><b>Redux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=html" width="48" height="48" alt="HTML5"/>
+      <br><sub><b>HTML5</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=css" width="48" height="48" alt="CSS3"/>
+      <br><sub><b>CSS3</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### ⚙️ Backend
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,django,postgres,mysql,sqlite&theme=dark" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=fastapi" width="48" height="48" alt="FastAPI"/>
+      <br><sub><b>FastAPI</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=django" width="48" height="48" alt="Django"/>
+      <br><sub><b>Django</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL"/>
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=mysql" width="48" height="48" alt="MySQL"/>
+      <br><sub><b>MySQL</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=sqlite" width="48" height="48" alt="SQLite"/>
+      <br><sub><b>SQLite</b></sub>
+    </td>
+  </tr>
+</table>
 
 ### 🤖 AI & LLM
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv&theme=dark" />
-</p>
 
-> **LangGraph** · **LangChain** · **RAG Pipelines** · **ChromaDB** · **Groq API** · **Gemini API** · **OpenRouter** · **Prompt Engineering** · **Vector Search** · **Agentic Systems**
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/>
+      <br><sub><b>PyTorch</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/>
+      <br><sub><b>TensorFlow</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/>
+      <br><sub><b>OpenCV</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="LangChain"/>
+      <br><sub><b>LangChain</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="LangGraph"/>
+      <br><sub><b>LangGraph</b></sub>
+    </td>
+  </tr>
+</table>
+
+> **RAG Pipelines** · **ChromaDB** · **Groq API** · **Gemini API** · **OpenRouter** · **Prompt Engineering** · **Vector Search** · **Agentic Systems**
 
 ### 🚀 DevOps & Tools
-<p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,linux,vercel,postman,vscode&theme=dark" />
-</p>
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker"/>
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/>
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/>
+      <br><sub><b>GitHub</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/>
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vercel" width="48" height="48" alt="Vercel"/>
+      <br><sub><b>Vercel</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postman" width="48" height="48" alt="Postman"/>
+      <br><sub><b>Postman</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code"/>
+      <br><sub><b>VS Code</b></sub>
+    </td>
+  </tr>
+</table>
 
 > **Render** · **Railway** · **CI/CD** · **GitHub Actions**
 
