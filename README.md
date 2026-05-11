@@ -22,7 +22,7 @@
 
 I build production-grade systems end-to-end — **LangGraph agentic backends**, **RAG pipelines**, **FastAPI & Django REST APIs**, and polished frontends. I care about clean architecture, real-world impact, and shipping things that actually work.
 
-Reduced manual data entry by **60%** via AI automation · Improved query performance by **30%** · Zero-downtime CI/CD on every push · **3 live deployed projects**
+Reduced manual data entry by **60%** via AI automation · Improved query performance by **30%** · Zero-downtime CI/CD on every push · ** live deployed projects**
 
 📬 adityachy0077@gmail.com &nbsp;|&nbsp; 📍 Bengaluru, India &nbsp;|&nbsp; 🎓 B.Tech CSE 2025
 
